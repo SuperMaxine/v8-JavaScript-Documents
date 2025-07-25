@@ -247,6 +247,4 @@ AST的生成由`DoParseProgram()`函数负责，源码如下：
 **恳请读者批评指正、提出宝贵意见**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**
 
-
-
-
+[下一篇](../chap22/README.md)

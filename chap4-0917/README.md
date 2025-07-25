@@ -345,3 +345,5 @@ typename ParserBase<Impl>::IdentifierT ParserBase<Impl>::ParseIdentifier(
 正是因为有符号表的存在，我们在调试程序时才能够看到源代码，它是编译阶段生成的数据结构，准确地说符号表在词法分析阶段生成，在语法分析阶段完善和补充。  
 好了，今天到这里，下次见。  
 **微信：qq9123013  备注：v8交流学习    邮箱：v8blink@outlook.com**
+
+[下一篇](../chap5-0918/README.md)

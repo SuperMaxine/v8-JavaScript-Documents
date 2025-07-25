@@ -261,3 +261,4 @@ V8 中 OPCODE 分为两类，一类是体系结构通用的操作码（COMMON_AR
 **个人能力有限，有不足与纰漏，欢迎批评指正**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**  
 
+[下一篇](../chap44/readme.md)

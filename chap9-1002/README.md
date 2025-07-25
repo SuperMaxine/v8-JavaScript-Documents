@@ -353,3 +353,5 @@ void Builtins::Generate_Adaptor(MacroAssembler* masm, Address address) {
 好了，今天到这里，下次见。   
 **恳请读者批评指正、提出宝贵意见**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**
+
+[下一篇](../chap10-1003/README.md)

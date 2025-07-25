@@ -267,3 +267,5 @@ console.log(word)
 
 **恳请读者批评指正、提出宝贵意见**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**
+
+[下一篇](../chap16-1025/README.md)

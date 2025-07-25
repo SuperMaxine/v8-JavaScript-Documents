@@ -353,3 +353,5 @@ V8_INLINE Token::Value Scanner::ScanSingleToken() {
 从代码中可以看出，生成token的过程就是这个switch case，它是一个自动机，token生成的过程也大量用到了正则表达。总结一句：token的生成过程就是字符匹配的过程，在V8中预先定义了token模板（TOKEN_LIST），再利用switch case完成字符匹配，生成token。
 好了，今天到这里，下次见。  
 **微信：qq9123013  备注：v8交流学习    邮箱：v8blink@outlook.com**
+
+[下一篇](../chap4-0917/README.md)

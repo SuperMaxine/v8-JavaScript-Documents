@@ -362,3 +362,5 @@ FunctionLiteral* Parser::ParseFunctionLiteral(
 好了，今天到这里，下次见。   
 
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**
+
+[下一篇](../chap6-0922/README.md)
