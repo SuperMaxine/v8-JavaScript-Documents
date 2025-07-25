@@ -103,3 +103,5 @@ void InterpreterAssembler::UpdateInterruptBudgetOnReturn() {
 
 好了，今天到这里，本专题未完，待续。    
 **恳请批评指正，你的建议是我进步的动力！**  
+
+[下一篇](../chap55/readme.md)

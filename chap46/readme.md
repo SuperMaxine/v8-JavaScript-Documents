@@ -266,3 +266,5 @@ MaybeHandle<BigInt> BigInt::FromNumber(Isolate* isolate,
 好了，今天到这里，下次见。    
 **个人能力有限，有不足与纰漏，欢迎批评指正**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**  
+
+[下一篇](../chap47/readme.md)

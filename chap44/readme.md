@@ -198,4 +198,4 @@ Runtime_StringToArray 方法的最后一行代码将 elements 包装成 NewJSArr
 **个人能力有限，有不足与纰漏，欢迎批评指正**  
 **微信：qq9123013  备注：v8交流    邮箱：v8blink@outlook.com**  
 
-
+[下一篇](../chap45/readme.md)

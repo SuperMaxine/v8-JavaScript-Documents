@@ -178,4 +178,4 @@ JSCallN 源码如下：
 **个人能力有限，有不足与纰漏，欢迎批评指正**  
 **微信：qq9123013  备注：v8交流    知乎：https://www.zhihu.com/people/v8blink**  
 
-
+[下一篇](../chap50/readme.md)

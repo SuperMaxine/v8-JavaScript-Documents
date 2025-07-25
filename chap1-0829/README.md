@@ -132,3 +132,5 @@ class Accessors : public AllStatic {
 ![avatar](VS8.png)  
 好了，今天就到这里，下次见。  
 **微信：qq9123013   邮箱：v8blink@outlook.com 欢迎批评指正**
+
+[下一篇](../chap2-0914/README.md)

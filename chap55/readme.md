@@ -81,3 +81,5 @@ JavaScript 脚本的任何变动都会导致整个脚本的缓存失效，所以
 好了，今天到这里。    
 **恳请批评指正，你的建议是我进步的动力！**    
 **微信：qq9123013  备注：v8交流    知乎：https://www.zhihu.com/people/v8blink**
+
+[下一篇](../chap56/readme.md)

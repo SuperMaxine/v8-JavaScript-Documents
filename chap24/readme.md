@@ -296,4 +296,4 @@ void SharedFunctionInfo::set_bytecode_array(BytecodeArray bytecode) {
 转载出处： https://www.anquanke.com/post/id/259502  
 安全客 - 有思想的安全新媒体
 
-
+[下一篇](../chap25/readme.md)
